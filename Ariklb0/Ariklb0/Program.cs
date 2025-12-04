@@ -11,6 +11,7 @@ namespace Ariklb0
         static void Main(string[] args)
         {
             Console.WriteLine("Привет мир!!");
+            double I = C * V;
         }
     }
 }
