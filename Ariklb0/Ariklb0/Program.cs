@@ -10,7 +10,8 @@ namespace Ariklb0
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Привет мир!!");
+            Console.WriteLine($"Количество яблок:");
+            double C = Convert.ToDouble(Console.ReadLine());
         }
     }
 }
