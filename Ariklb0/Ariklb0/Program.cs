@@ -12,6 +12,7 @@ namespace Ariklb0
         {
             Console.WriteLine("Привет мир!!");
             double I = C * V;
+            Console.WriteLine($"Стоимость: {I} рублей");
         }
     }
 }
