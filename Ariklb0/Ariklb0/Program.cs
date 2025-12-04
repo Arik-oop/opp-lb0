@@ -16,6 +16,7 @@ namespace Ariklb0
             double V = Convert.ToDouble(Console.ReadLine());
             double I = C * V;
             Console.WriteLine($"Стоимость: {I} рублей");
+            Console.Read();
         }
     }
 }
