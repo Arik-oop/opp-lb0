@@ -12,6 +12,8 @@ namespace Ariklb0
         {
             Console.WriteLine($"Количество яблок:");
             double C = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine($"Вес:");
+            double V = Convert.ToDouble(Console.ReadLine());
         }
     }
 }
